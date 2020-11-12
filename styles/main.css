@@ -1,0 +1,45 @@
+@import url(shop.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: 'Crete Round', serif;
+  text-align: center;
+}
+
+body {
+  background-color: #646464;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn {
+  padding: 2px 5px;
+  border: 2px solid #ffffff;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  border: 2px solid #999;
+  padding: 0.5px 5px;
+}
+
+.pageHeader {
+  text-align: center;
+  margin: 1em 0;
+  font-size: 2em;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 0 2em;
+}
+
+

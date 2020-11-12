@@ -1,0 +1,16 @@
+.shop {
+  flex-basis: 33%;
+  margin-bottom: 1em;
+}
+
+.shop__info {
+  margin-bottom: 0.75em;
+}
+
+section.shop__name {
+  margin-bottom: 0.25em;
+}
+
+.shop__info p {
+  text-align: center;
+}
